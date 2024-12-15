@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://jake-mayores.vercel.app](https://portfolio-git-main-mayores04s-projects.vercel.app)
 
-- ⚡ Fun fact **I dont'drink alcohol, I love playing any physical and also minds sports**
+- ⚡ Fun fact **I dont'drink alcohol, I love playing any physical sports and also minds games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **Front-end web development**
 
-- 👨‍💻 All of my projects are not yet available at [https://jake-mayores.vercel.app](https://portfolio-git-main-mayores04s-projects.vercel.app)
-
 - 📄 Know about my experiences [https://jake-mayores.vercel.app](https://portfolio-git-main-mayores04s-projects.vercel.app)
 
 - ⚡ Fun fact **I dont'drink alcohol, I love playing any physical and also minds sports**

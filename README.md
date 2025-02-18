@@ -11,7 +11,7 @@
 <ul>
   <li>🌱 I’m currently learning <strong>ReactJS, NextJS, and TailwindCSS</strong></li>
   <li>👥 I’m looking to collaborate on <strong>Front-end web development</strong></li>
-  <li>🖋️ Know about my experiences: <a href="https://mayores-jake.vercel.app/" target="_blank">Portfolio</a></li>
+  <li>🖋️ Know about my experiences: <a href="https://jakemayores.vercel.app" target="_blank">Portfolio</a></li>
   <li>⚡ Fun fact: <em>I don't drink alcohol, I love playing physical sports, and I enjoy mind games.</em></li>
 </ul>
 

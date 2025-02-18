@@ -3,10 +3,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.w3webschool.com/wp-content/uploads/2022/10/developer.gif">
 
+<!--
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mayores-04&label=Profile%20views&color=0e75b6&style=flat" alt="mayores-04" />
 </p>
-
+-->
 <ul>
   <li>🌱 I’m currently learning <strong>ReactJS, NextJS, and TailwindCSS</strong></li>
   <li>👥 I’m looking to collaborate on <strong>Front-end web development</strong></li>

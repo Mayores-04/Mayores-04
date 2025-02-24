@@ -75,11 +75,11 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayores-04&show_icons=true&locale=en&layout=compact&count_private=true" alt="mayores-04" />
 </p>
 
-<!---->
+<!--
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayores-04&show_icons=true&locale=en" alt="mayores-04" />
 </p>
-
+-->
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayores-04&" alt="mayores-04" />
 </p>

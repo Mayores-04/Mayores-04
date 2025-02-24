@@ -72,7 +72,7 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayores-04&show_icons=true&locale=en&layout=compact&count_private=true" alt="mayores-04" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayores-04&show_icons=true&locale=en&layout=compact" alt="mayores-04" />
 </p>
 
 <!--

@@ -73,12 +73,12 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
   </a>
 </p>
-
+<!--
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayores-04&show_icons=true&locale=en&layout=compact&count_private=true" alt="mayores-04" />
 </p>
 
-<!---->
+-->
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayores-04&show_icons=true&locale=en" alt="mayores-04" />
 </p>

@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" alt="Coding" width="400" src="https://www.w3webschool.com/wp-content/uploads/2022/10/developer.gif">
+<img align="center" alt="Coding" width="400" src="https://www.w3webschool.com/wp-content/uploads/2022/10/developer.gif">
 
 ###
 

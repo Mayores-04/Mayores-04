@@ -3,7 +3,7 @@
 ###
 
 
-<img align="right" height="450" src="https://www.w3webschool.com/wp-content/uploads/2022/10/developer.gif"  />
+<img align="center" height="450" src="https://www.w3webschool.com/wp-content/uploads/2022/10/developer.gif"  />
 
 ###
 

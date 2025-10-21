@@ -1,30 +1,19 @@
-<h1 align="center">Hi 👋, I'm Jake J. Mayores</h1>
-<h3 align="center">I am a dedicated and determined student of computer science, and a passionate beginner frontend developer from the Philippines.</h3>
+<h2 align="left">Hi 👋! My name is Jake Mayores and I'm a Frontend developer | Computer Science Student | Full-Stack Developer, from the Philippines.</h2>
 
-<img align="right" alt="Coding" width="400" src="https://www.w3webschool.com/wp-content/uploads/2022/10/developer.gif">
+###
 
-<!--
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mayores-04&label=Profile%20views&color=0e75b6&style=flat" alt="mayores-04" />
-</p>
--->
-<ul>
-  <li>🌱 I’m currently learning <strong>ReactJS, NextJS, and TailwindCSS</strong></li>
-  <li>👥 I’m looking to collaborate on <strong>Front-end web development</strong></li>
-  <li>🖋️ Know about my experiences: <a href="https://jakemayores.vercel.app" target="_blank">Portfolio</a></li>
-  <li>⚡ Fun fact: <em>I don't drink alcohol, I love playing physical sports, and I enjoy mind games.</em></li>
-</ul>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<h3>Connect with me:</h3>
-<p>
-  <a href="https://fb.com/jakejmayores" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jakejmayores" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mayoresjake" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayoresjake" height="30" width="40" />
-  </a>
-</p>
+###
 
+<img align="right" height="150" src="https://www.w3webschool.com/wp-content/uploads/2022/10/developer.gif"  />
+
+###
+
+<div align="left">
 <h3>Languages and Tools:</h3>
 <p>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -73,16 +62,23 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
   </a>
 </p>
-<!--
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayores-04&show_icons=true&locale=en&layout=compact&count_private=true" alt="mayores-04" />
-</p>
+</div>
 
--->
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayores-04&show_icons=true&locale=en" alt="mayores-04" />
-</p>
+###
 
+<h3>Connect with me:</h3>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayores-04&" alt="mayores-04" />
+  <a href="https://fb.com/jakejmayores" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jakejmayores" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/mayoresjake" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayoresjake" height="30" width="40" />
+  </a>
 </p>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###

@@ -1,18 +1,24 @@
-<h2 align="left">Hi 👋! I'm Jake Mayores, a Frontend Developer | Computer Science Student | Full-Stack Developer from the Philippines.</h2>
+<h2 align="left">Hi 👋! My name is Jake Mayores and I'm a Frontend developer | Computer Science Student | Full-Stack Developer, from the Philippines.</h2>
 
 ###
 
+
 <img align="right" alt="Coding" width="400" src="https://www.w3webschool.com/wp-content/uploads/2022/10/developer.gif">
+
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
+
+###
+
+<div align="left">
 <h3>Languages and Tools:</h3>
 <p>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -21,12 +27,15 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="40" height="40" />
-  </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"  style="background-color: white; padding: 4px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style=" padding: 5px; border-radius: 5px;" />
+</a>
+
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="40" height="40" />
+</a>
+
+
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   </a>
@@ -58,6 +67,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
   </a>
 </p>
+</div>
 
 ###
 
@@ -70,10 +80,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayoresjake" height="30" width="40" />
   </a>
 </p>
-
 ###
 
 <br clear="both">
+
 
 <picture>
   <source
@@ -91,3 +101,6 @@
 </picture>
 
 ###
+
+
+fix this

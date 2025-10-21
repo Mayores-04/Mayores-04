@@ -1,7 +1,4 @@
-<div style="display: flex; align-items: center; ">
-  <h2 style="margin-right: 20px;">Hi 👋! I'm Jake Mayores, a Frontend Developer | Computer Science Student | Full-Stack Developer from the Philippines.</h2>
-  <img alt="Developer" width="300" src="path_to_your_image.png">
-</div>
+<div style="display: flex; align-items: center; "> <h2 style="margin-right: 20px;">Hi 👋! I'm Jake Mayores, a Frontend Developer | Computer Science Student | Full-Stack Developer from the Philippines.</h2> <img alt="Coding" width="300" src="https://www.w3webschool.com/wp-content/uploads/2022/10/developer.gif"> </div>
 
 <hr>
 

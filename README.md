@@ -6,10 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayores-04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayores-04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
 
 ###
 <h2>🚀 Languages and Tools I Use</h2>
@@ -36,14 +32,20 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/https://ph.linkedin.com/in/jake-mayores" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/jakejmayores/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/mayoresjake/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jake&show_icons=true&locale=en" alt="Jake" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jake&" alt="Jake" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jake&show_icons=true&locale=en&layout=compact" alt="Jake" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jake" alt="Jake" /></a></p>
 
 ###
 
 <br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayores-04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayores-04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mayores-04&show_icons=true&locale=en" alt="Jake" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayores-04&" alt="Jake" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayores-04&show_icons=true&locale=en&layout=compact" alt="Jake" /></p>
+  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mayores-04" alt="Jake" /></a></p>
+</div>
+
 
 <picture>
   <source

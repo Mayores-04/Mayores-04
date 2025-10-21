@@ -61,15 +61,14 @@
 
 ###
 
-<h3>Connect with me:</h3>
-<p>
-  <a href="https://fb.com/jakejmayores" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jakejmayores" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mayoresjake" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayoresjake" height="30" width="40" />
-  </a>
-</p>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://www.linkedin.com/in/https://ph.linkedin.com/in/jake-mayores" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.facebook.com/https://www.facebook.com/jakejmayores/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
+<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/mayoresjake/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jake&show_icons=true&locale=en" alt="Jake" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jake&" alt="Jake" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jake&show_icons=true&locale=en&layout=compact" alt="Jake" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jake" alt="Jake" /></a></p>
 
 ###
 

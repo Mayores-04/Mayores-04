@@ -1,5 +1,7 @@
-<h2 align="left">Hi 👋! I'm Jake Mayores, a Frontend Developer | Computer Science Student | Full-Stack Developer from the Philippines.</h2>
-<img align="right" alt="Coding" width="400" src="https://www.w3webschool.com/wp-content/uploads/2022/10/developer.gif">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <h2 align="left">Hi 👋! I'm Jake Mayores, a Frontend Developer | Computer Science Student | Full-Stack Developer from the Philippines.</h2>
+  <img align="right" alt="Coding" width="400" src="https://www.w3webschool.com/wp-content/uploads/2022/10/developer.gif">
+</div>
 
 ###
 <h2>🚀 Languages and Tools I Use</h2>

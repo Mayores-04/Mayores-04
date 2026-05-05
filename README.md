@@ -1,6 +1,6 @@
 <div align="center">
-  <h2>Hi 👋! I'm Jake Mayores</h2>
-  <p>Fullstack Developer | Computer Science Student · Quezon City, PH 🇵🇭</p>
+  <h2>Hi 👋, I'm Jake Mayores</h2>
+  <p>Fullstack Developer · CS Student at STI Ortigas-Cainta · Quezon City, PH 🇵🇭</p>
 </div>
 
 <div align="center">
@@ -13,60 +13,41 @@
   <a href="https://www.instagram.com/mayoresjake" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-F35369?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://jake-cmd-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </div>
 
 <br/>
 
-<hr/>
+---
 
-<h2>🚀 Languages and Tools I Use</h2>
+## 🚀 Languages and Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,html,css,tailwind,mongodb,firebase,git,figma,postman,bash,arduino,python&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cs,react,nextjs,html,css,tailwind,mongodb,firebase,git,figma,postman,bash,arduino&theme=dark" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-</p>
+---
 
-<hr/>
-
-<h2>⚡️ Where to find me</h2>
-
-<p>
-  <a href="https://ph.linkedin.com/in/jake-mayores" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
-  </a>
-  <a href="https://www.facebook.com/jakejmayores" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" />
-  </a>
-  <a href="https://www.instagram.com/mayoresjake" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
-  </a>
-</p>
-
-<hr/>
-
-<h2>📊 Stats</h2>
+## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayores-04&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayores-04&locale=en&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="165" alt="languages graph" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Mayores-04&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Jake's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mayores-04&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayores-04&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=Mayores-04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mayores-04&theme=tokyonight&no-frame=true&margin-w=8&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mayores-04&theme=tokyonight&no-frame=true&margin-w=8&column=7" alt="Trophies" />
 </div>
 
-<hr/>
+---
 
-<h2>🐍 Github Contributions</h2>
+## 🐍 Github Contributions
 
 <div align="center">
   <picture>
